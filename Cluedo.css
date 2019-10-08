@@ -1,11 +1,11 @@
 /* TODO */
 
 #presentation em {
-  background-color: lightgreen;
+  color: green;
 }
 
 #deroulement em {
-  background-color: lightblue;
+  color: blue;
 }
 
 em > em {
@@ -13,11 +13,11 @@ em > em {
 }
 
 #armes > ul > li {
-  background-color: lightgreen;
+  color: green;
 }
 
 #armes > ul > li > ul {
-  background-color: lightblue;
+  color: blue;
 }
 
 .contandante {
@@ -33,29 +33,29 @@ em > em {
 }
 
 #violet {
-  background-color: purple;
+  color: purple;
 }
 
 #cellule-moutarde {
-  background-color: rgb(225,173,1);
+  color: rgb(225,173,1);
 }
 
 #cellule-olive {
-  background-color: rgb(112,141,35);
+  color: rgb(112,141,35);
 }
 
 #cellule-violet {
-  background-color: purple;
+  color: purple;
 }
 
 #cellule-rose {
-  background-color: rgb(255,192,203);
+  color: rgb(255,192,203);
 }
 
 #cellule-pervenche {
-  background-color: rgb(204,204,255);
+  color: rgb(204,204,255);
 }
 
 #cellule-blanc {
-  background-color: white;
+  color: white;
 }
