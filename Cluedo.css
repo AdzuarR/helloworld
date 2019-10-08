@@ -1,0 +1,61 @@
+/* TODO */
+
+#presentation em {
+  background-color: lightgreen;
+}
+
+#deroulement em {
+  background-color: lightblue;
+}
+
+em > em {
+  font-weight: bold;
+}
+
+#armes > ul > li {
+  background-color: lightgreen;
+}
+
+#armes > ul > li > ul {
+  background-color: lightblue;
+}
+
+.contandante {
+  font-weight: bold;
+}
+
+.coupante {
+  text-decoration: underline;
+}
+
+.detourne {
+  font-style: italic;
+}
+
+#violet {
+  background-color: purple;
+}
+
+#cellule-moutarde {
+  background-color: rgb(225,173,1);
+}
+
+#cellule-olive {
+  background-color: rgb(112,141,35);
+}
+
+#cellule-violet {
+  background-color: purple;
+}
+
+#cellule-rose {
+  background-color: rgb(255,192,203);
+}
+
+#cellule-pervenche {
+  background-color: rgb(204,204,255);
+}
+
+#cellule-blanc {
+  background-color: white;
+}
